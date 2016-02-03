@@ -2,18 +2,6 @@
  * Created by malloyzhu on 2016/2/2.
  */
 
-
-var TouchType = {
-    DEFAULT: "DEFAULT",
-    FOLLOW: "FOLLOW"
-};
-
-var DirectionType = {
-    FOUR: "FOUR",
-    EIGHT: "EIGHT",
-    ALL: "ALL"
-};
-
 var TouchType = {
     DEFAULT: "DEFAULT",
     FOLLOW: "FOLLOW"
